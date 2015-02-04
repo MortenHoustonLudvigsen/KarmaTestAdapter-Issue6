@@ -4,9 +4,10 @@
   "dependencies": {
   },
   "devDependencies": {
-    "karma": "^0.12.31",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.24",
     "karma-chrome-launcher": "^0.1.7",
-    "karma-jasmine": "^0.3.5",
+    "karma-jasmine": "^0.2.3",
     "karma-vs-reporter": "^0.7.0",
     "karma-xml-reporter": "^0.1.4"
   },
